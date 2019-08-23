@@ -12,3 +12,4 @@ if ((pause==1) or digitalread(raspi)==off):
 else:
     pwm.write(세기,온도)
 ```
+# arduino_dryer
